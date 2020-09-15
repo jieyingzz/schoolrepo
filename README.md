@@ -1,0 +1,2 @@
+# schoolrepo
+my first repository
